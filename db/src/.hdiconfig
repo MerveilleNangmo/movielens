@@ -85,7 +85,7 @@
         "hdbvirtualprocedureconfig" : {
             "plugin_name" : "com.sap.hana.di.virtualprocedure.config"
         },
-        "hdbafllangprocedure" : {
+        "hdbafflangprocedure" : {
             "plugin_name" : "com.sap.hana.di.afllangprocedure"
         },
         "hdblibrary" : {
